@@ -155,3 +155,5 @@ That's all for the linear algebra section :) Congrats on making it through!
 I'm putting all this documentation out there in case there's any interest in building software around the hand scans that Cosmos produces.
 
 If you're interested in building something (especially something that's also open source 👀), don't hesitate to reach out on [the Discord server](https://discord.gg/nXjqkfgtGy)! I'd be happy to work with you to make this data easier to work with.
+
+<!-- Auto-update: 2025-10-15T15:50:09.026564 -->
